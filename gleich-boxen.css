@@ -1,0 +1,43 @@
+.rot {
+  width: 5vw;
+  height: 5vw;
+  background-color: red;
+  display: inline-block;
+}
+
+.blau {
+  width: 6rem;
+  height: 6rem;
+  background-color: blue;
+  display: inline-block;
+}
+.brown {
+  width: 95px;
+  height: 95px;
+  background-color: brown;
+  display: inline-block;
+}
+.gold {
+  width: 6em;
+  height: 6em;
+  background-color: gold;
+  display: inline-block;
+}
+.tan {
+  width: 9.8vh;
+  height: 9.8vh;
+  background-color: tan;
+  display: inline-block;
+}
+.continer {
+  background-color: #fff;
+  width: 95px;
+  height: 95px;
+  display: inline-block;
+}
+.tomato {
+  width: 100%;
+  height: 100%;
+  background-color: tomato;
+  display: inline-block;
+}
